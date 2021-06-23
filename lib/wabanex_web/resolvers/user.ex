@@ -1,4 +1,4 @@
-defmodule WabanexWeb.Resolver.User do
+defmodule WabanexWeb.Resolvers.User do
   alias Wabanex.Users
 
   def create(%{input: params}, _context), do: Users.Create.call(params)
