@@ -40,11 +40,10 @@ Gerencie e acompanhe seus treinos na academia
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale o phoenix `mix archive.install hex phx_new 1.5.9`
 - Instale as dependencias do projeto `mix deps.get`
 - Instale a database e rode as migrations `mix ecto.setup`
 - Inicie o servidor do phoenix `mix phx.server`
-- Por fim, caso precise você pode alterar as configurações do banco de dados pelo arquivo `dev.exs` e no arquivo `config/test.exs`
+- Por fim, caso precise, você pode alterar as configurações do banco de dados pelo arquivo `dev.exs` e no arquivo `config/test.exs`
 
 A aplicação estará disponível em `http://localhost:4000`
 
