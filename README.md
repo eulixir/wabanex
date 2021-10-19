@@ -16,7 +16,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Elixix](https://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 - [Phoenix](https://phoenixframework.org/)
 - [GraphQL](https://graphql.org)
 </div>
@@ -46,7 +46,7 @@ Gerencie e acompanhe seus treinos na academia
 - Inicie o servidor do phoenix `mix phx.server`
 - Por fim, caso precise você pode alterar as configurações do banco de dados pelo arquivo `dev.exs` e no arquivo `config/test.exs`
 
-Por fim, a aplicação estará disponível em `http://localhost:4000`
+A aplicação estará disponível em `http://localhost:4000`
 
 ---
 
